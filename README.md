@@ -1,4 +1,3 @@
-## README EDITS
 # BSGP 7030 Assignment 2
 
 This is my Assignment 2 repo for BSGP 7030.

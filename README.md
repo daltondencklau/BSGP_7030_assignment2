@@ -49,4 +49,3 @@ These print the model results and save the plots.
 I worked on the assignment3 branch, merged it into main, and tagged the final version as assignment3-final so I could turn in the branch link, the before-merge commit, and the tagged version.
 
 Dalton Dencklau
-Text
